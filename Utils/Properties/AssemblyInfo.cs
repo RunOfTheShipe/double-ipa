@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DoubleIPA")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("DoubleIPA.Utils")]
+[assembly: AssemblyDescription("Utility methods for use in the DoubleIPA project")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DoubleIPA")]
@@ -20,4 +20,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b1513964-1f4c-451c-bd45-f9169a70aa57")]
+[assembly: Guid("203368cf-cbf3-4a31-b264-e20a6eb55857")]
