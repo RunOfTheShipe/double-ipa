@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{53D2E1C4-AE0B-4AA8-BFC2-7C0A2F5E30B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelUT", "ModelUT\ModelUT.csproj", "{3CDDED88-9833-4C7E-BD8B-A30767C170EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelUT", "Testing\ModelUT\ModelUT.csproj", "{3CDDED88-9833-4C7E-BD8B-A30767C170EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
