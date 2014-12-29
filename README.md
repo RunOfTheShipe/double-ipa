@@ -8,5 +8,5 @@ Development Environment
 -----------
 - C# based application, .NET 4.5 (Windows only, for now)
 - Design is captured in the project Wiki
-- Unit Testing: TBD
-- External dependencies: TBD
+- Unit Testing: NUnit (v2.6.4) (Visual Studio Plugin: v1.2.0.0) (http://www.nunit.org/index.php?p=home)
+- Other External dependencies: TBD
